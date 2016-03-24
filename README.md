@@ -27,8 +27,9 @@
 ```python
 python manage.py syncdb 
 ```
-    
-    或 
+
+  或 
+  
 ```python
 python manage.py migrate
 ```
