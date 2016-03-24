@@ -24,13 +24,14 @@
   4.将app中captcha_settings文件中内容拷贝至项目settings
   
   5.项目根目录执行
-    ```python
-    python manage.py syncdb 
-    ```
+```python
+python manage.py syncdb 
+```
+    
     或 
-    ```python
-    python manage.py migrate
-    ```
+```python
+python manage.py migrate
+```
     
 申明：
 ----
