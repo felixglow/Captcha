@@ -15,11 +15,11 @@
   
 使用：
 ----
-  1.Captcha放入django根目录下
+  1.captcha放入django根目录下
   
   2.项目主urls中include改app的url
   
-  3.settings文件apps中加入Captcha
+  3.settings文件apps中加入captcha
   
   4.将app中captcha_settings文件中内容拷贝至项目settings
   
